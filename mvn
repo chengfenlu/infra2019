@@ -5,5 +5,12 @@ Java version: 11.0.4, vendor: Oracle Corporation, runtime: /Library/Java/JavaVir
 Default locale: zh_TW_#Hant, platform encoding: UTF-8
 OS name: "mac os x", version: "10.14.5", arch: "x86_64", family: "mac"
 
+
+
+
 ??? /Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home -> This could be java home
 -> yes check it
+
+
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home
+export PATH= /Users/jeniffer.lu/Downloads/apache-maven-3.6.2/bin; $PATH
