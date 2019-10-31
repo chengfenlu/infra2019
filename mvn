@@ -1,0 +1,9 @@
+(base) ISTWLAPAPPLE1979:bin jeniffer.lu$ ./mvn --version
+Apache Maven 3.6.2 (40f52333136460af0dc0d7232c0dc0bcf0d9e117; 2019-08-27T23:06:16+08:00)
+Maven home: /Users/jeniffer.lu/Downloads/apache-maven-3.6.2
+Java version: 11.0.4, vendor: Oracle Corporation, runtime: /Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home
+Default locale: zh_TW_#Hant, platform encoding: UTF-8
+OS name: "mac os x", version: "10.14.5", arch: "x86_64", family: "mac"
+
+??? /Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home -> This could be java home
+-> yes check it
