@@ -1,0 +1,9 @@
+./Users/jeniffer.lu/Library/Python/2.7/bin/pyspark . (add this to path later)
+
+find . -name pyspark  > $HOME/pyspark
+./Users/jeniffer.lu/pyspark(this file)
+user the following bin
+./Users/jeniffer.lu/Library/Python/2.7/bin/pyspark
+./Users/jeniffer.lu/Library/Python/2.7/lib/python/site-packages/pyspark
+./Users/jeniffer.lu/Library/Python/2.7/lib/python/site-packages/pyspark/bin/pyspark
+./Users/jeniffer.lu/Library/Python/2.7/lib/python/site-packages/pyspark/python/pyspark
