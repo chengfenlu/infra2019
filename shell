@@ -1,0 +1,11 @@
+
+(base) ISTWLAPAPPLE1979:bin jeniffer.lu$ pwd
+/bin
+(base) ISTWLAPAPPLE1979:bin jeniffer.lu$ ls
+[		dd		ksh		pax		stty
+bash		df		launchctl	ps		sync
+cat		echo		link		pwd		tcsh
+chmod		ed		ln		rm		test
+cp		expr		ls		rmdir		unlink
+csh		hostname	mkdir		sh		wait4path
+date		kill		mv		sleep		zsh
