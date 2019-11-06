@@ -10,4 +10,8 @@ You should consider upgrading via the 'pip install --upgrade pip' command.
  find /Users/jeniffer.lu/Library/Python/ -name aws
 /Users/jeniffer.lu/Library/Python//3.7/bin/aws
 
+aws configure --profile user1
+aws s3 ls --profile user1
 
+
+config and credentials in .aws
