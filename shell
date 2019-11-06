@@ -9,3 +9,7 @@ chmod		ed		ln		rm		test
 cp		expr		ls		rmdir		unlink
 csh		hostname	mkdir		sh		wait4path
 date		kill		mv		sleep		zsh
+
+
+echo 'export PATH=/Users/jeniffer.lu/Library/Python//3.7/bin/:$PATH' >>~/.bash_profile
+source ~/.bash_profile
