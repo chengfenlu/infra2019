@@ -1,3 +1,7 @@
+(base) Chengde-MacBook-Air:~ chengfenlu$ which aws
+/Users/chengfenlu/anaconda3/bin/aws
+-------
+
  pip3 install --user awscli
  
  The scripts pyrsa-decrypt, pyrsa-decrypt-bigfile, pyrsa-encrypt, pyrsa-encrypt-bigfile, pyrsa-keygen, pyrsa-priv2pub,
